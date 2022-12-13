@@ -1,3 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mona-17&layout=compact&theme=highcontrast&count_private=true)](https://github.com/Mona-17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mona-17&layout=compact&theme=onedark&count_private=true)](https://github.com/Mona-17/github-readme-stats)
 
-![Mona's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mona-17&show_icons=true&theme=highcontrast)
+![Mona's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mona-17&show_icons=true&theme=onedark)
