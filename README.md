@@ -2,5 +2,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=Mona-17&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mona-17&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mona-17&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Mona's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mona-17&show_icons=true&theme=transparent)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
