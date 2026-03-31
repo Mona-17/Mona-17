@@ -4,4 +4,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Mona-17&theme=flag-india&hide_border=false)<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-Profile picture: @NaakiFixer on Twitter/X
+Profile picture: @maydaysame on Twitter/X
